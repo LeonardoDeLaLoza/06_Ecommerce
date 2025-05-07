@@ -424,6 +424,7 @@ img {
         border-bottom: 2px solid #e1e1e1;
         padding-bottom: 2rem;
         margin-bottom: 4rem;
+        display: block;
     }
     .contenido-blog{
         padding: 2rem;
